@@ -117,14 +117,6 @@ This project demonstrates:
 
 This is an educational project for Formal Languages & Automata Theory course.
 
-## 📄 License
-
-MIT License
-
-## 👥 Authors
-
-[Your Names Here]
-
 ## 🔗 References
 
 - International Morse Code Standard
